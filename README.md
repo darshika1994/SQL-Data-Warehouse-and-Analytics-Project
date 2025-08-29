@@ -57,7 +57,7 @@ This project covers the end-to-end flow of a modern data warehouse:
 These insights help managers make data-driven decisions.  
 
 ---
-## 📂 Repository Structure
+## Repository Structure
 ```
 data-warehouse-project/
 │
